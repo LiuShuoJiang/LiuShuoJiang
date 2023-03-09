@@ -2,10 +2,10 @@
 
 ## Introduction
 
-- 👀 I am interested in geometric deep learning, natural language processing, reinforcement learning, robotics and embedded systems, and anything related to computer science and automation.
 - 🌱 I am a year-4 undergraduate student at Xi'an Jiaotong University (XJTU), majoring in automation.
 - 🏛️ I am currently studying at National University of Singapore (NUS) as an exchange student, majoring in computer science.
 - 💞️ I am anxiously applying for graduate programs these days!
+- 👀 I am interested in geometric deep learning, natural language processing, reinforcement learning, robotics and embedded systems, and anything related to computer science and automation.
 - 📫 Please email me at Leo2001@stu.xjtu.edu.cn or leoshuojiang@gmail.com.
 
 ## Github Statistics

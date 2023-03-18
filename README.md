@@ -8,7 +8,7 @@
 - 👀 I am interested in geometric deep learning, natural language processing, reinforcement learning, robotics and embedded systems, and anything related to computer science and automation.
 - 📫 Please email me at Leo2001@stu.xjtu.edu.cn or leoshuojiang@gmail.com.
 
-## Github Statistics
+## Github Statistics (Beta)
 
 [![Shuojiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiuShuoJiang&show_icons=true&theme=cobalt&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 

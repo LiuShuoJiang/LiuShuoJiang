@@ -9,7 +9,7 @@
 
 ## Github Statistics (Beta)
 
-[![Shuojiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiuShuoJiang&show_icons=true&theme=cobalt&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Shuojiang's GitHub stats](https://github-readme-stats-n2bsxk8ko-liushuojiang.vercel.app/api?username=LiuShuoJiang&show_icons=true&theme=cobalt&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 LiuShuoJiang/LiuShuoJiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

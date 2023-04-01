@@ -1,6 +1,6 @@
 # Hi, my name is Shuojiang Liu 👋👋👋
 
-## Introduction
+## Short Bio
 
 - 🌱 I am a year-4 undergraduate student at Xi'an Jiaotong University (XJTU), majoring in automation.
 - 🏛️ I am currently studying at National University of Singapore (NUS) as an exchange student, majoring in computer science.

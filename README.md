@@ -1,5 +1,7 @@
 # Hi, my name is Shuojiang Liu 👋👋👋
 
+"Shuojiang" is pronounced as [this](https://translate.google.com/translate_tts?ie=UTF-&&client=tw-ob&tl=zh-cn&q=%E6%9C%94%E6%B1%9F), and "Liu" is pronounced as ["Leo"](https://translate.google.com/translate_tts?ie=UTF-&&client=tw-ob&tl=zh-cn&q=%E5%88%98).
+
 I am a master's student enrolled at Georgia Tech in the [Computational Science and Engineering](https://cse.gatech.edu/) program.
 
 <!---

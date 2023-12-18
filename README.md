@@ -1,4 +1,8 @@
-# Hi, my name is Shuojiang Liu 👋👋👋
+<h1 align="center">Hi, my name is Shuojiang Liu 👋👋👋</h1>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/liushuojiang/count.svg" />
+</p>
 
 "Shuojiang" is pronounced as [this](https://translate.google.com/translate_tts?ie=UTF-&&client=tw-ob&tl=zh-cn&q=%E6%9C%94%E6%B1%9F), and "Liu" is pronounced as ["Leo"](https://translate.google.com/translate_tts?ie=UTF-&&client=tw-ob&tl=zh-cn&q=%E5%88%98).
 

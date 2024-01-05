@@ -18,6 +18,14 @@
 
 I am a 1st year master's student enrolled at [Georgia Tech](https://www.gatech.edu/) in the [Computational Science and Engineering](https://cse.gatech.edu/) (CSE) program.
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LiuShuoJiang/LiuShuoJiang/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LiuShuoJiang/LiuShuoJiang/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LiuShuoJiang/LiuShuoJiang/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
+
 <!---
 LiuShuoJiang/LiuShuoJiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -1,4 +1,8 @@
-<h1 align="center">Hi, my name is Shuojiang Liu 👋👋👋</h1>
+<h1 align="center"> 
+  <a href="https://liushuojiang.github.io">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Merienda&weight=900&size=40&color=B3A369&center=true&vCenter=true&repeat=false&width=700&lines=Hi!+My+name+is+Shuojiang+Liu👋" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/liushuojiang/count.svg" />

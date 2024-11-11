@@ -10,8 +10,9 @@
 
 <div id="img" align=center>
 
-[![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-![](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+[![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=for-the-badge)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
+![](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
+![](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 
 </div>
 

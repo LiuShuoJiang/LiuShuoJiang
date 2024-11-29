@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats-git-master-liushuojiang.vercel.app/api/top-langs/?username=liushuojiang&layout=compact&theme=buefy&hide_border=true&hide=jupyter%20notebook,css,html,javascript" />
 </p>
 
-I am a master's student from [Georgia Tech](https://www.gatech.edu/) in the [Computational Science and Engineering](https://cse.gatech.edu/) (CSE) program.
+I am a current master's student from [Georgia Tech](https://www.gatech.edu/) in the [Computational Science and Engineering](https://cse.gatech.edu/) (CSE) program.
 
 <p align="center">
 <picture>
